@@ -6,7 +6,7 @@ interface Student {
   name: string;
   image: string;
   house: string;
-  // Otros campos según la API
+  // SI LA API TIENES MAS CAMPOS PODEMOS AGREGAR MAS CAMPOS PARA MOSTRAR :))
 }
 
 type StudentDetailScreenRouteProp = RouteProp<{ params: { student: Student } }, 'params'>;

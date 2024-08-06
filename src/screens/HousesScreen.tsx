@@ -1,4 +1,3 @@
-// screens/HousesScreen.tsx
 import React from 'react';
 import { View, Text, Button, StyleSheet, ImageBackground, Image, TouchableOpacity } from 'react-native';
 import { NativeStackNavigationProp } from '@react-navigation/native-stack';
